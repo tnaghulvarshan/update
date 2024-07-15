@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/github.io/update/static/css/main.7ac3b603.css",
-    "main.js": "/github.io/update/static/js/main.2b037d1c.js",
-    "static/js/453.004731e8.chunk.js": "/github.io/update/static/js/453.004731e8.chunk.js",
-    "static/media/fullstc certi.jpg": "/github.io/update/static/media/fullstc certi.77250e79d8bca247848e.jpg",
-    "static/media/galaxy.gif": "/github.io/update/static/media/galaxy.061e4e01818ee9e5c3cb.gif",
-    "static/media/gif": "/github.io/update/static/media/341e800b1f29d3e34ea2eba5a6af205c.7433f3309d123b84cd47.gif",
-    "static/media/file.png": "/github.io/update/static/media/file.97495795d24ca5c38ffa.png",
-    "static/media/naghulvarsha_res_update.jpg": "/github.io/update/static/media/naghulvarsha_res_update.f367282325b1ea9196eb.jpg",
-    "static/media/saveetha-engineering-college-chennai_1646737426.jpeg": "/github.io/update/static/media/saveetha-engineering-college-chennai_1646737426.d30807ca31b72c1e8629.jpeg",
-    "static/media/java collections certificate.jpg": "/github.io/update/static/media/java collections certificate.5333536382596029f93c.jpg",
-    "static/media/java certificate.jpg": "/github.io/update/static/media/java certificate.512344c1db566bbc4b65.jpg",
-    "static/media/jayaschool_KP.jpg": "/github.io/update/static/media/jayaschool_KP.ec25f9b9a7a97657a739.jpg",
-    "index.html": "/github.io/update/index.html",
-    "main.7ac3b603.css.map": "/github.io/update/static/css/main.7ac3b603.css.map",
-    "main.2b037d1c.js.map": "/github.io/update/static/js/main.2b037d1c.js.map",
-    "453.004731e8.chunk.js.map": "/github.io/update/static/js/453.004731e8.chunk.js.map"
+    "main.css": "/update/static/css/main.5f95d385.css",
+    "main.js": "/update/static/js/main.3aa02892.js",
+    "static/js/453.004731e8.chunk.js": "/update/static/js/453.004731e8.chunk.js",
+    "static/media/fullstc certi.jpg": "/update/static/media/fullstc certi.77250e79d8bca247848e.jpg",
+    "static/media/galaxy.gif": "/update/static/media/galaxy.061e4e01818ee9e5c3cb.gif",
+    "static/media/gif": "/update/static/media/341e800b1f29d3e34ea2eba5a6af205c.7433f3309d123b84cd47.gif",
+    "static/media/file.png": "/update/static/media/file.97495795d24ca5c38ffa.png",
+    "static/media/naghulvarsha_res_update.jpg": "/update/static/media/naghulvarsha_res_update.f367282325b1ea9196eb.jpg",
+    "static/media/saveetha-engineering-college-chennai_1646737426.jpeg": "/update/static/media/saveetha-engineering-college-chennai_1646737426.d30807ca31b72c1e8629.jpeg",
+    "static/media/java collections certificate.jpg": "/update/static/media/java collections certificate.5333536382596029f93c.jpg",
+    "static/media/java certificate.jpg": "/update/static/media/java certificate.512344c1db566bbc4b65.jpg",
+    "static/media/jayaschool_KP.jpg": "/update/static/media/jayaschool_KP.ec25f9b9a7a97657a739.jpg",
+    "index.html": "/update/index.html",
+    "main.5f95d385.css.map": "/update/static/css/main.5f95d385.css.map",
+    "main.3aa02892.js.map": "/update/static/js/main.3aa02892.js.map",
+    "453.004731e8.chunk.js.map": "/update/static/js/453.004731e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ac3b603.css",
-    "static/js/main.2b037d1c.js"
+    "static/css/main.5f95d385.css",
+    "static/js/main.3aa02892.js"
   ]
 }
