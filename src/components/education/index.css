@@ -1,0 +1,44 @@
+.Edu-full{
+    background-color: black;
+}
+.schooling{
+   
+   color: rgb(255, 0, 255);
+    background-color: black;
+    width: 70%;
+    transition: 1.5s;
+    text-shadow: 5px 5px 50px rgb(245, 163, 245);
+  /* box-shadow: 1px 1px 40px rgb(152, 11, 152); */
+}
+.schooling:hover{
+   text-shadow: 5px 5px 50px rgb(245, 163, 245);
+   color: rgb(255, 255, 255);
+transition: 1.5s;
+  /* box-shadow: 1px 1px 40px rgb(152, 11, 152); */
+}
+.skillh2{
+    color: aliceblue;
+    border: 2px solid violet;
+    padding: 10px;
+    transition: 1s;
+    border-radius: 50px;
+    margin-top: 40PX;
+}
+.skillh2:hover{
+    text-shadow: 6px 5px 15px  violet;
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(150, 82, 150);
+    transition: 1s;
+    padding: 10px;
+    border-radius: 50px;
+    box-shadow: 6px 5px 15px  rgb(0, 0, 0) ;
+}
+.skill-head{
+    border-bottom: 5px solid rgb(186, 79, 186);
+  
+ color: aliceblue;
+
+}
+.schl-img{
+    height: 300px;
+}

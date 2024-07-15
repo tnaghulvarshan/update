@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Playwrite+NZ:wght@100..400&family=Prata&display=swap');
+
+.app{
+background-color: black;
+}
+.Dom{
+  background-color: black;
+}
+.side-nav {
+  width: 15%;
+  right: 0%;
+top: 10%;
+}
+
+.side-nav ul li{
+  list-style: none;
+  border: 5px solid rgb(75, 0, 75);
+ font-size: 15px;
+ border-radius: 30px;
+ text-align: center;
+ padding: 5px;
+ transition: 0.5s;
+ background-image: url('./img/galaxy.gif');
+
+}
+.side-nav ul li:hover{
+  list-style: none;
+  border: 2px solid;
+ font-size: 30px;
+ border-radius: 20px;
+ text-align: center;
+ padding: 5px;
+transition: 0.5s;
+box-shadow: 1px -5px  15px violet;
+background-image: url('./img/galaxy.gif');
+background-size: cover;
+background-repeat: no-repeat;
+}
+.nav-content{
+  color: rgb(255, 255, 255);
+  font-family: "Alata", sans-serif;
+  text-decoration: none;
+}
+.nav-content:hover{
+  text-shadow: 1px 1px 20px rgb(255, 0, 255);
+  color: rgb(246, 176, 246);
+  font-family: "Alata", sans-serif;
+  text-decoration: none;
+}
+@media screen and (max-width: 869px) {
+  .side-nav {
+    width: 35%;
+    right: 0%;
+  top:15%;
+  }
+  .side-nav ul li:hover{
+    list-style: none;
+    border: 2px solid;
+   font-size: 20px;
+   border-radius: 20px;
+   text-align: center;
+   padding: 5px;
+  transition: 0.5s;
+  box-shadow: 1px -5px  15px violet;
+  background-image: url('./img/galaxy.gif');
+  background-size: cover;
+  
+  background-repeat: no-repeat;
+  }
+}

@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Playwrite+NZ:wght@100..400&family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Albert+Sans:ital,wght@0,100..900;1,100..900&family=Playwrite+NZ:wght@100..400&family=Prata&display=swap');
+.Certi-all{
+    background-color: black;
+}
+.certi-card img {
+    width: 70%;
+    height: 500px;
+}
+.certi-descrip li{
+    list-style: none;
+    font-family: "Albert Sans", sans-serif;
+}
+.certi-descrip h1{
+    font-family: "Alata", sans-serif;
+}
+.certi-descrip{
+    background-color: black;
+}
+.certi-card{
+    background-color: black;
+}
+.certi-card h4{
+    text-shadow:5px 0px 15px rgb(229, 110, 229);
+    color: rgb(249, 167, 249);
+}
+.certi-descrip li h4{
+    text-shadow:5px 0px 15px rgb(229, 110, 229);
+    color: rgb(249, 167, 249);
+}
+@media screen and (min-width: 769px) {
+    
+}

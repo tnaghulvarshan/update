@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+.nav{
+  position: sticky;
+    height: 200px;
+    
+}
+
+.name{
+    justify-content:space-evenly;
+    align-items: center;
+    background-image: url('./img/341e800b1f29d3e34ea2eba5a6af205c.gif');
+}
+.brand h1{
+  transition: 1s;
+}
+.brand h1:hover{
+  transition: 1s;
+  font-size: 50px;
+  color: rgb(252, 217, 252);
+  text-shadow: 5px 5px 50px white;
+}
+
+.brand h2{
+
+    transition: 1s;
+}
+.brand h2:hover{
+    transition: 1s;
+    font-size: 40px;
+    color: rgb(252, 217, 252);
+    text-shadow: 5px 5px 50px white;
+  }
+ .nav-full {
+  box-shadow: -2px -10px 30px violet;
+ }
+ @media screen and (max-width: 769px) {
+  .brand h1:hover{
+    transition: 1s;
+    font-size: 33px;
+    color: rgb(252, 217, 252);
+    text-shadow: 5px 5px 50px white;
+  }
+  .brand h2:hover{
+    transition: 1s;
+    font-size: 33px;
+    color: rgb(252, 217, 252);
+    text-shadow: 5px 5px 50px white;
+  }
+  .portfolio{
+        font-size: 15px;
+        transition: 1s;
+  }
+ }

@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Playwrite+NZ:wght@100..400&family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Albert+Sans:ital,wght@0,100..900;1,100..900&family=Playwrite+NZ:wght@100..400&family=Prata&display=swap');
+.me img{
+width: 50%;
+scale: 1.11;
+
+}
+.wel-content h1{
+  font-size: 40px;
+  text-shadow: 10px 1px 25px rgb(255, 0, 255);
+  font-family: "Alata", sans-serif;
+}
+.wel-content p{
+  font-family: "Albert Sans", sans-serif;
+}
+.home-full{
+  box-shadow: -2px -10px 30px violet;
+  
+}
+.resume{
+  margin-top: 15px;
+}
+.accordion-button{
+  border: 1px sloid violet;
+  background-color: rgb(253, 241, 253);
+  color: rgb(0, 0, 0);
+  box-shadow: 10px 10px 20px violet;
+
+}
+
