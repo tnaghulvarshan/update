@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/update/static/css/main.5f95d385.css",
+    "main.css": "/update/static/css/main.633510fc.css",
     "main.js": "/update/static/js/main.3aa02892.js",
     "static/js/453.004731e8.chunk.js": "/update/static/js/453.004731e8.chunk.js",
     "static/media/fullstc certi.jpg": "/update/static/media/fullstc certi.77250e79d8bca247848e.jpg",
@@ -13,12 +13,12 @@
     "static/media/java certificate.jpg": "/update/static/media/java certificate.512344c1db566bbc4b65.jpg",
     "static/media/jayaschool_KP.jpg": "/update/static/media/jayaschool_KP.ec25f9b9a7a97657a739.jpg",
     "index.html": "/update/index.html",
-    "main.5f95d385.css.map": "/update/static/css/main.5f95d385.css.map",
+    "main.633510fc.css.map": "/update/static/css/main.633510fc.css.map",
     "main.3aa02892.js.map": "/update/static/js/main.3aa02892.js.map",
     "453.004731e8.chunk.js.map": "/update/static/js/453.004731e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f95d385.css",
+    "static/css/main.633510fc.css",
     "static/js/main.3aa02892.js"
   ]
 }
